@@ -1,4 +1,4 @@
-👋 Hi, I’m @Salah9320Alhassun, a 20-year-old programming student and ethical hacker.
+👋 Hi, I’m @Salah9320Alhassun, a 20-year-old programming student and webdesign developer.
 
 - 👀 I’m passionate about diving into the world of coding and exploring the intricacies of ethical hacking.
 - 🌱 I’m currently learning various programming languages and cybersecurity techniques to enhance my skills.
