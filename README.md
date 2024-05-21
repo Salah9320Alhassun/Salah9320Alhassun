@@ -3,10 +3,10 @@
 - 👀 I’m passionate about diving into the world of coding and exploring the intricacies of NEW web design features.
 - 🌱 I’m currently learning various programming languages and new features and techniques to enhance my skills.
 - 💼 I'm working on exciting projects that blend my programming knowledge with Webdevelopment and webdesigns.
-- 📫 You can reach me through [salah.alhassun@elev.ga.ntig.se](mailto:salah.alhassun@icloud.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/salah9320alhassun/).
+- 📫 You can reach me through [salah.alhassun@icloud.com](mailto:salah.alhassun@icloud.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/salah9320alhassun/).
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I'm not immersed in coding, you might find me in my startup --> www.Whatnow.se check it ou!
+- ⚡ Fun fact: When I'm not immersed in coding, you might find me in my startup --> [Whatnow.se](https://www.whatnow.se)) check it ou!
 
 - 🍉 FREE PALESTINE FREE GAZA 🍉
 <!---
