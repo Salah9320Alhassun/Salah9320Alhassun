@@ -1,4 +1,4 @@
-👋 Hi, I’m @Salah9320Alhassun, a 20-year-old programming student and webdesign developer.
+👋 Hi, I’m @Salah Alhassun, a programming student and webdesign developer.
 
 - 👀 I’m passionate about diving into the world of coding and exploring the intricacies of NEW web design features.
 - 🌱 I’m currently learning various programming languages and new features and techniques to enhance my skills.
