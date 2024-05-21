@@ -6,9 +6,9 @@
 - 📫 You can reach me through [salah.alhassun@icloud.com](mailto:salah.alhassun@icloud.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/salah9320alhassun/).
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I'm not immersed in coding, you might find me in my startup --> [Whatnow.se](https://www.whatnow.se)) check it ou!
+- ⚡ Fun fact: When I'm not immersed in coding, you might find me in my startup --> [Whatnow.se](https://www.whatnow.se)) check it out!
 
-- 🍉 FREE PALESTINE FREE GAZA 🍉
+                                            - 🍉 FREE PALESTINE FREE GAZA 🍉
 <!---
 Salah9320Alhassun/Salah9320Alhassun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
